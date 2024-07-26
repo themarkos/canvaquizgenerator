@@ -9,4 +9,5 @@ CHOOSE OUTPUT FOLDER
 YOUR CLAUDE 3 Haiku API
 
 In the prompt change
+
 ENTER NICHE
