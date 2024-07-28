@@ -1,3 +1,5 @@
+# Canva Quiz Generator
+
 This program will take a article and create a set of questions and export into table format to be used with CANVA BULK CREATE. Generate multiples lists in second with this AI tool.
 
 This is a free to use program by GIGA CHAD LLC
