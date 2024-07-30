@@ -52,7 +52,7 @@ def save_to_csv(result, output_file):
 
 def main():
     # Your prompt that will generate a table response
-    prompt = """Create me 50 sets of questions and answers in the same style as the below is the context to use, and format them in a table where one column is the question, with a max word count of 14. Part 2 is the third column which is always the correct answer for the question. Column two, four and five which is Part 1 and Part 3 and Part 4 is the wrong answers to the question. The max character count for Part 1, 2, 3, 4 is 21. These should be questions and answers about ENTER NICHE. Keep the questions engaging, polarizing, over the top and relatable to everyone or people who ARE IN THE NICHE. The reading grade should be under grade 10 ideally Here is content to make the questions and answers:
+    prompt = """Create me questions and answers with the context provided, and format them in a table where one column is the question, with a max word count of 14. Part 2 is the third column which is always the correct answer for the question. Column two, four and five which is Part 1 and Part 3 and Part 4 is the wrong answers to the question. The max character count for Part 1, 2, 3, 4 is 21. These should be questions and answers about ENTER NICHE. Keep the questions engaging, polarizing, over the top and relatable to everyone or people who ARE IN THE NICHE. The reading grade should be under grade 10 ideally Here is content to make the questions and answers:
     """
     
     # Make API call
